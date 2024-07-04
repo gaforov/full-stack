@@ -1,20 +1,13 @@
 # Syllabus
-**The Complete Web Development Roadmap**
+**<span style="color: orange; font-style: italic;">The Complete Web Development Roadmap</span>**
 
-## Web Development Fundamentals
-
+### Web Development Fundamentals
 - Understand how websites work and how HTML, CSS, and JavaScript contribute.
 - Understand how the internet works and how websites are served.
 - Learn to use git, GitHub, and version control.
 - Learn key troubleshooting and debugging skills to apply to your projects.
 
-## WEB DEVELOPMENT FUNDAMENTALS
-- Understand how websites work and how HTML, CSS and JavaScript contribute.
-- Understand how the internet works and how websites are served.
-- Learn to use git, GitHub and version control.
-- Learn key troubleshooting and debugging skills to apply to your projects.
-
-## HTML 5
+### HTML 5
 - Learn the anatomy of HTML syntax to structure your websites.
 - Understand the HTML boilerplate and HTML doctypes.
 - Understand indentation and nesting in HTML code.
@@ -39,14 +32,14 @@
 - How to use CSS float and clear properties.
 - How to combine CSS selectors and understand selector priority.
 
-### FLEXBOX
+### Flexbox
 - Learn about why flexbox was introduced to CSS.
 - Understand what happens when display is set as flex.
 - Understand flex direction and how it affects layout.
 - Learn to use align and justify for layout of child items.
 - Understand how child items are sized and distributed in a flexbox and use the flex shorthand property.
 
-### BOOTSTRAP
+### Bootstrap
 - Understand the difference between native CSS tooling and external frameworks.
 - Learn to install the Bootstrap framework into your website.
 - Understand the Bootstrap 12 column layout system.
@@ -54,27 +47,27 @@
 - Accessing and incorporating designer icons from Bootstrap.
 - Find and use bootstrap code snippets, examples and pre-built templates to quickly create beautiful mobile-first websites.
 
-### DOCUMENT OBJECT MODEL (DOM)
+### Document Object Model (DOM)
 - Learn the tree structure of HTML based websites.
 - Traverse through the document using object notation.
 - Separation of concerns and coding best practices.
 - Manipulate and change the HTML elements using your understanding of the DOM.
 
-### GRID
+### Grid
 - Learn about how grid is different to flexbox and their strengths and weaknesses.
 - Understand what happens when display is set as grid.
 - Learn how grid sizing is done and how to create and arrange a grid.
 - Learn to position items in a grid and how placement across rows and columns is done.
 - Learn to use grid in combination with flexbox to create complex layout using native CSS.
 
-### WEB DESIGN
+### Web Design
 - Learn the fundamental principles of web design, UI and UX.
 - Understand colour theory and how to choose and use modern colour palettes to make your website look professional.
 - Understand modern typography and choose free-for-commercial use typefaces to make your website user friendly and stylish.
 - Learn to manage user attention using the key principles of User Interface (UI) design.
 - Learn to design user friendly websites by understanding User Experience (UX) design.
 
-### JAVASCRIPT ES6
+### Javascript ES6
 - Compare programming languages like JS with scripting and markup/stylesheet languages.
 - Overview of JavaScript and its uses.
 - Understand how to work with a code editor and IDEs.
@@ -114,19 +107,19 @@
       - The for...in loop for iterating over object properties
       - The Object.assign method for copying properties from one object to another
 
-### THE UNIX COMMAND LINE
+### The Unix Command Line
 - How to use basic bash commands in a Unix/Linux Terminal.
 - How to manipulate files and folders without needing a graphical user interface.
 - How to download and install to your computer using command line.
 
-### GIT GITHUB AND VERSION CONTROL
+### Git Github and Version Control
 - Using git for version control and collaboration.
 - Git forking, branching and cloning.
 - Using GitHub as a remote repository.
 - Checkout and rolling back changes with git.
 - Using git and GitHub with Xcode.
 
-### REACT.JS
+### React.js
 - Learn front-end development with React.
 - Understand when and how to use React Components.
 - Learn to pass Props and work with them.
@@ -137,7 +130,7 @@
 - Learn about conditional rendering in React.
 - Understand the difference between class and functional components.
 
-### NODE.JS
+### Node.js
 - Explore the components of back-end development, working with an MVC framework.
 - Apply concepts like data types, objects, methods, object-oriented programming, and classes in the context of back-end development.
 - Server-Side JavaScript.
@@ -149,7 +142,7 @@
 - Modules.
 - Native Node drivers.
 
-### APPLICATION PROGRAM INTERFACES (APIs)
+### Application Program Interfaces (APIs)
 - Understand what APIs are and how they work.
 - HTTP in Depth.
 - Calling APIs.
@@ -165,26 +158,26 @@
 - Passing data from server to template and vice versa.
 - Creating layouts/partials with EJS.
 
-### DATABASE FUNDAMENTALS
+### Database Fundamentals
 - Data Relationships.
 - Designing a Data Model.
 - Relational Databases.
 - Alternative Databases.
 - Entity Relationship Modelling (ERM) and Object Relational Mapping (ORM).
 
-### EXPRESS.JS
+### Express.js
 - Understand how to install and use express in Node applications.
 - Creating Node and Express based servers.
 - RESTful Routing with Express.
 - Understand and use middleware for Node applications.
 
-### SQL DATABASES
+### SQL Databases
 - Working with Database Schemas.
 - Create-Read-Update-Destroy (CRUD).
 - Database Joins.
 - Querying SQL databases.
 
-### POSTGRES DATABASES
+### PostgreSQL Databases
 - PostgreSQL queries.
 - Create-Read-Update-Destroy (CRUD).
 - Postgres Best Practices.
@@ -193,19 +186,19 @@
 - Implementing One to Many, One to One and Many to Many Relationships.
 - Working with Postgres in Node with the pg Package.
 
-### DEPLOYMENT
+### Deployment
 - Understand hosting and deployment.
 - Hosting static websites with GitHub Pages.
 - Deploying server based applications with Heroku.
 - Deploying Databases with Mongo Atlas.
 
-### BUILDING RESTful APIs
+### Building RESTful APIs
 - Understand REST and guiding principles behind API design.
 - Learn to work with a MongoDB GUI Robo 3T.
 - Implementing GET, POST, PUT, PATCH and DELETE by creating a public API from scratch.
 - Understand and use chained route handlers from Express.
 
-### AUTHENTICATION and SECURITY
+### Authentication and Security
 - Understand the need for authentication and keeping user details secure.
 - Learn about Encryption and use encryption to keep your database secure.
 - Learn and implement Hashing and Salting with bcrypt.
@@ -215,12 +208,12 @@
 - Understand and use environment variables to keep secret keys secure.
 - Understand and use OAuth 2.0 to log in users using Google and Facebook.
 
-### WEB 3 BASICS AND BLOCKCHAIN DEVELOPMENT
+### Web 3 Basics and Blockchain Development
 - Understand Web3 and blockchain development.
 - Understand a Canister.
 - Understand a Motoko actor.
 
-### DEPLOY YOUR CV WEBSITE ONTO A BLOCKCHAIN
+### Deploy your CV website onto a Blockchain
 - Set up a cycles wallet.
 - Obtain free cycles from Dfinity.
 - Understand how to manage the cycles balance of a canister.
