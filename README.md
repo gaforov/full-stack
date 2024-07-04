@@ -1,5 +1,8 @@
 # Syllabus
-**<font color="orange">*The Complete Web Development Roadmap*</font>**
+**_The Complete Web Development Roadmap_**
+```diff
+@@ The Complete Web Development Roadmap (and bold)@@
+```
 
 ### Web Development Fundamentals
 - Understand how websites work and how HTML, CSS, and JavaScript contribute.
