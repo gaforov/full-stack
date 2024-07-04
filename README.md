@@ -142,6 +142,12 @@
 - Modules.
 - Native Node drivers.
 
+### Express.js
+- Understand how to install and use express in Node applications.
+- Creating Node and Express based servers.
+- RESTful Routing with Express.
+- Understand and use middleware for Node applications.
+
 ### Application Program Interfaces (APIs)
 - Understand what APIs are and how they work.
 - HTTP in Depth.
@@ -164,12 +170,6 @@
 - Relational Databases.
 - Alternative Databases.
 - Entity Relationship Modelling (ERM) and Object Relational Mapping (ORM).
-
-### Express.js
-- Understand how to install and use express in Node applications.
-- Creating Node and Express based servers.
-- RESTful Routing with Express.
-- Understand and use middleware for Node applications.
 
 ### SQL Databases
 - Working with Database Schemas.
