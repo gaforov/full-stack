@@ -1,3 +1,43 @@
 /* Write your code here: */
 
+/* Grouping selectors */
+h1, h2 {
+  color: blueviolet;
+}
+
+
+/* Child selector */
+/* div > p {
+  color: firebrick;
+} */
+
+/* OR */
+.box > p {
+  color: firebrick;
+}
+
+/* Descendant */
+.box ul {
+  color: blue;
+}
+/* OR */
+/* .bol li {
+  color: blue;
+} */
+
+
+/* Chaining */
+li.done {
+  color: seagreen;
+}
+
+/* Combining combiners */
+ul p.done {
+  font-size: 0.5rem;
+}
+/* OR */
+/* ul > p.done {
+  font-size: 0.5rem;
+} */
+
 
