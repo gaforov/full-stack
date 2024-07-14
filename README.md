@@ -1,7 +1,7 @@
 # Syllabus
 **_The Complete 2024 Web Development Roadmap_**
 
-### Web Development Fundamentals
+### Web Development Fundamentals [✔️=Completed]
 - Understand how websites work and how HTML, CSS, and JavaScript contribute. ✔️      
 - Understand how the internet works and how websites are served. ✔️      
 - Learn to use git, GitHub, and version control. ✔️      
@@ -23,7 +23,7 @@
 - How to use CSS selectors and properties.✅  
 - Learn about how to use inline, internal and external CSS.✅  
 - Understand CSS coding best practices.✅  
-- Learn about CSS specificity and inheritance. ✅  
+- Learn about CSS specificity and inheritance. 
 - Learn and understand the CSS Box Model.
 - Learn to use developer tools to inspect and diagnose CSS.
 - Learn about CSS positioning and display properties.
