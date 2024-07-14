@@ -2,21 +2,21 @@
 **_The Complete 2024 Web Development Roadmap_**
 
 ### Web Development Fundamentals
-- Understand how websites work and how HTML, CSS, and JavaScript contribute.✔️    
-- Understand how the internet works and how websites are served. ✔️    
-- Learn to use git, GitHub, and version control. ☑️    
+- Understand how websites work and how HTML, CSS, and JavaScript contribute. ✔️      
+- Understand how the internet works and how websites are served.     
+- Learn to use git, GitHub, and version control. ✅    
 - Learn key troubleshooting and debugging skills to apply to your projects. ☑️   
 
 ### HTML 5
 ✅ Learn the anatomy of HTML syntax to structure your websites.  
 ✅ Understand the HTML boilerplate and HTML doctypes.  
-🔲 Understand indentation and nesting in HTML code.  
-🔲 Learn to use HTML tags to structure headings, paragraphs.  
+⬜ Understand indentation and nesting in HTML code.  
+⬜ Learn to use HTML tags to structure headings, paragraphs.  
 - How to structure HTML lists to create unordered and ordered lists.  
-- How to insert images using HTML.  
-- How to create hyperlinks using anchor tags.  
-- Create multi-page websites.  
-- Learn HTML best practices.  
+- How to insert images using HTML. ✔️     
+- How to create hyperlinks using anchor tags. - [x]       
+- Create multi-page websites. ☑️   
+- Learn HTML best practices. ✅    
 
 ### CSS 3
 - Understand what are cascading style sheets and how you can use it to style your website.✅  
