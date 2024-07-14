@@ -1,7 +1,7 @@
 # Syllabus
-**_The Complete 2024 Web Development Roadmap_**
+**_The Complete 2024 Web Development Roadmap_** [✔️=Completed]
 
-### Web Development Fundamentals [✔️=Completed]
+### Web Development Fundamentals 
 - Understand how websites work and how HTML, CSS, and JavaScript contribute. ✔️      
 - Understand how the internet works and how websites are served. ✔️      
 - Learn to use git, GitHub, and version control. ✔️      
