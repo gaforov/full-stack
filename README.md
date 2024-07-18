@@ -2,10 +2,10 @@
 **_The Complete 2024 Web Development Roadmap_** [✔️=Completed]
 
 ### Web Development Fundamentals 
-- Understand how websites work and how HTML, CSS, and JavaScript contribute. ✔️      
-- Understand how the internet works and how websites are served. ✔️      
-- Learn to use git, GitHub, and version control. ✔️      
-- Learn key troubleshooting and debugging skills to apply to your projects. ✔️  
+- Understand how websites work and how HTML, CSS, and JavaScript contribute. __________ ✔️      
+- Understand how the internet works and how websites are served. ______________________ ✔️      
+- Learn to use git, GitHub, and version control. ______________________________________ ✔️      
+- Learn key troubleshooting and debugging skills to apply to your projects. ___________ ✔️  
 
 ### HTML 5
 - Learn the anatomy of HTML syntax to structure your websites.  
