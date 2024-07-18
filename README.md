@@ -1,5 +1,5 @@
 # Syllabus
-**_The Complete 2024 Web Development Roadmap_** [✔️=Completed]
+**_The Complete 2024 Web Development Roadmap_**   [✔️ = Completed]
 
 ### Web Development Fundamentals 
 - Understand how websites work and how HTML, CSS, and JavaScript contribute.  ✔️      
@@ -37,7 +37,7 @@
 - Understand what happens when display is set as flex.  ✔️
 - Understand flex direction and how it affects layout.  ✔️
 - Learn to use align and justify for layout of child items.  ✔️
-- Understand how child items are sized and distributed in a flexbox and use the flex shorthand property.  👈 I'm here now
+- Understand how child items are sized and distributed in a flexbox and use the flex shorthand property.  👈 **_I'm here_** now
 
 ### Bootstrap
 - Understand the difference between native CSS tooling and external frameworks.
