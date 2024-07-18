@@ -37,7 +37,7 @@
 - Understand what happens when display is set as flex.  ✔️
 - Understand flex direction and how it affects layout.  ✔️
 - Learn to use align and justify for layout of child items.  ✔️
-- Understand how child items are sized and distributed in a flexbox and use the flex shorthand property.  👈 **_I'm here_** now
+- Understand how child items are sized and distributed in a flexbox and use the flex shorthand property.  👈 **_I'm here now_** 👈
 
 ### Bootstrap
 - Understand the difference between native CSS tooling and external frameworks.
