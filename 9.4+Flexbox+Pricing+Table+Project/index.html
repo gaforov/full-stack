@@ -13,8 +13,75 @@
         font-family: "Sono", sans-serif;
       }
 
+      .pricing-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        gap: 2rem;
+        }
+
+      .pricing-plan {
+        flex: 1;
+        background-color: lightgray;
+        margin: 15px;
+        padding: 15px;
+        border-radius: 10px;
+        max-width: 400px;
+      
+      }
+
+      .plan-title,
+      .plan-price {
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+      }
+
+      .plan-title {
+          font-size: 24px;
+        }
+
+      .plan-price {
+        font-size: 2rem;
+      }
+      .plan-button {
+        max-width: 100px;
+        background-color:rgb(249, 108, 0);
+        display: grid;
+        margin: auto;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        padding: 5px;
+      }
+
+      .plan-features {
+        list-style: none;
+        padding-left: 5px;
+        margin: 10px 0px 25px 0px;
+      }
+
+     
+
       /* Hint: What can you do with a media query and flexbox? */
-      @media (max-width: 1250px) {
+      @media (max-width: 1000px) {
+        .pricing-container {
+        display: flex;
+        flex-direction: column;
+        /* max-width: 300px; */
+        /* min-height: 120px; */
+        /* align-items: center;
+        margin-left: 20px;
+        margin-top: 10px; */
+        height: 100%;
+        }
+
+         /* The Basic Plan box has a narrower width compared to the other two boxes below it, because its price is a single digit. To make it match the width of the other boxes: */
+      .pricing-container > .pricing-plan:first-child {
+        min-width: 247px;
+      }
+
       }
     </style>
   </head>
