@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mondrian Project</title>
+    <style>
+      /* 
+    Write your CSS here 
+    Gap Colour: #000
+    White: #F0F1EC
+    Red: #E72F24
+    Black: #232629
+    Blue: #004592
+    Yellow: #F9D01E
+
+    For dimensions, see dimensions.png image.
+    HINT: Remember you can't change the properties of grid lines.
+    But grid lines are transparent!
+    */
+      .container {
+        background-color: #f0f1ec;
+        width: 748px;
+        height: 748px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+      }
+      .box-1 {
+        width: 320px;
+        height: 414px;
+        background-color: #e72f24;
+        border-right: black solid 9px;
+        border-bottom: black solid 9px;
+        grid-row: 1;
+        grid-column: 1;
+      }
+      
+      .box-2 {
+        /* border: #f9d01e solid 5px; */
+        border-bottom: black solid 9px;
+        /* height: 414px;
+        width: 419px; */
+        grid-row: 1;
+        grid-column: span 3;
+      }
+      
+      .box-3 {
+        border-right: black solid 9px;
+        border-bottom: black solid 9px;
+        grid-row: 2;
+        width: 320px;
+        height: 296px;
+      }
+      
+      .box-4 {
+        border-right: black solid 9px;
+        border-bottom: black solid 9px;
+        grid-column: 2;
+        grid-row: 2;
+        width: 360px;
+      }
+      
+      .box-5 {
+        border-bottom: black solid 10px;
+        width: 50px;
+        height: 130px;
+        background-color: #004592;
+        grid-column: 4;
+        grid-row: 2;
+      }
+      .box-6 {
+        grid-area: 3/1;
+        border-right: black solid 9px;
+        height: 20px;
+      }
+      
+      .box-7 {
+        border-right: black solid 9px;
+        height: 20px;
+        width: 198px;
+        background-color: #f9d01e;
+        grid-row: 3;
+        grid-column: 2;
+        justify-self: start;
+      }
+      .box-8 {
+        border-right: black solid 9px;
+        height: 20px;
+        width: 153px;
+        background-color: #232629;
+        grid-row: 3;
+        grid-column: 2;
+        justify-self: end;
+      }
+
+      .box-9 {
+        grid-row: 3;
+        grid-column: 4;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- Write your HTML here -->
+    <div class="container">
+      <div class="box-1 red">1</div>
+      <div class="box-2 gray-1">2</div>
+      <div class="box-3 gray-2">3</div>
+      <div class="box-4 gray-3">4</div>
+      <div class="box-5 blue" style="color: white;">5</div>
+      <div class="box-6 gray-4">6</div>
+      <div class="box-7 yellow">7</div>
+      <div class="box-8 black" style="color: white;">8</div>
+      <div class="box-9 gray-5">9</div>
+    </div>
+  </body>
+</html>
